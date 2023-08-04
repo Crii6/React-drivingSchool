@@ -8,6 +8,18 @@
   background-size: cover;
 }
 
+.background-overlay {
+  /* Créer une superposition semi-transparente */
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); 
+  backdrop-filter: brightness(75%); 
+  z-index: 0;
+}
+
 .color{
   color: #6BB12C;
   border-bottom: 1px solid #6BB12C;
@@ -86,5 +98,19 @@
   100% {
     -webkit-transform: translateY(0);
     transform: translateY(0);
+  }
+}
+
+.appear-left{
+  animation: left 1.8s ease-out;
+}
+
+@keyframes left {
+  0% {
+      left: -100%
+  }
+
+  100% {
+      left: 2%;
   }
 }
