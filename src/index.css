@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+html{
+  scroll-behavior: smooth;
+}
+
 .back-header{
   background: url('./assets/back.jpg');
   background-position: center;
@@ -113,4 +117,33 @@
   100% {
       left: 2%;
   }
+}
+
+.borderLR::before{
+  content: "";
+  width: 40%;
+  transform: translateY(50%);
+  border-top: 1px solid black;
+  margin-right: 5px;
+}
+.borderLR::after{
+  content: "";
+  margin-left: 5px;
+  transform: translateY(50%);
+  width: 40%;
+  border-top: 1px solid black;
+}
+
+
+.bg-gray-gradient {
+  background: linear-gradient(
+    153.47deg,
+    rgba(0, 0, 0, 0.438) -341.94%,
+    #fcfcfc 95.11%
+  );
+}
+
+.featuresHauteur:nth-child(3),.featuresHauteur:nth-child(4){
+  height: 165px;
+  margin-bottom: 2px;
 }

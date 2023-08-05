@@ -2,6 +2,7 @@ import Navbar from "../components/Navbar";
 import { useState } from "react";
 import { useLocation } from "react-router-dom";
 import Titre from "../components/Titre";
+import Features from "../components/Features";
 
 const Home = () => {
 
@@ -13,10 +14,10 @@ const Home = () => {
     <header>  
       <div>
         <Navbar />
-        <div>
-
-          <Titre />
-        </div>
+        <Titre />
+      </div>
+      <div>
+        <Features />
       </div>
     </header>
   )
