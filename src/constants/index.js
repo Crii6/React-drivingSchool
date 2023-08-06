@@ -1,9 +1,10 @@
 import { PiCertificateBold, PiMonitorPlayThin, PiClock } from "react-icons/Pi";
 import { AiOutlineCar } from "react-icons/ai";
-import { FaUserCheck, FaGraduationCap } from "react-icons/fa";
-import { GiDirectionSigns } from "react-icons/gi";
+import { FaUserCheck, FaGraduationCap, FaMotorcycle } from "react-icons/fa";
+import { GiDirectionSigns, GiScooter } from "react-icons/gi";
 import { LuCalendarClock } from "react-icons/Lu";
-import { HiUserGroup } from "react-icons/Hi"
+import { HiUserGroup } from "react-icons/Hi";
+import { BsTruck } from "react-icons/Bs"
 
 export const NavLinks = [
     {
@@ -84,4 +85,27 @@ export const stats = [
         title: "Eleves actuel",
         value: "300"
     }
+];
+
+export const permis = [
+    {
+        id: "permis-1",
+        title: "Voiture",
+        Icon: AiOutlineCar,
+    },
+    {
+        id: "permis-2",
+        title: "Camion",
+        Icon: BsTruck,
+    },
+    {
+        id: "permis-3",
+        title: "Moto",
+        Icon: FaMotorcycle,
+    },
+    {
+        id: "permis-4",
+        title: "BSR",
+        Icon: GiScooter,
+    },
 ]

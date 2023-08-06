@@ -4,6 +4,7 @@ import { useLocation } from "react-router-dom";
 import Titre from "../components/Titre";
 import Features from "../components/Features";
 import Stats from "../components/Stats";
+import Permis from "../components/Permis";
 
 const Home = () => {
 
@@ -21,6 +22,7 @@ const Home = () => {
         <Features />
       </div>
       <Stats />
+      <Permis />
     </header>
   )
 }
