@@ -3,6 +3,7 @@ import { useState } from "react";
 import { useLocation } from "react-router-dom";
 import Titre from "../components/Titre";
 import Features from "../components/Features";
+import Stats from "../components/Stats";
 
 const Home = () => {
 
@@ -19,6 +20,7 @@ const Home = () => {
       <div>
         <Features />
       </div>
+      <Stats />
     </header>
   )
 }

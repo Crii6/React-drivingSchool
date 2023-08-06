@@ -1,7 +1,9 @@
 import { PiCertificateBold, PiMonitorPlayThin, PiClock } from "react-icons/Pi";
 import { AiOutlineCar } from "react-icons/ai";
-import { FaUserCheck } from "react-icons/fa";
+import { FaUserCheck, FaGraduationCap } from "react-icons/fa";
 import { GiDirectionSigns } from "react-icons/gi";
+import { LuCalendarClock } from "react-icons/Lu";
+import { HiUserGroup } from "react-icons/Hi"
 
 export const NavLinks = [
     {
@@ -61,4 +63,25 @@ export const FeaturesCard = [
         title: "Learning Roads",
         text: "lorem ipsum dolor sit amet to be consectetur adipiscing elit,"
     },
+];
+
+export const stats = [
+    {
+        id: "stats-1",
+        Icon: FaGraduationCap,
+        title: "Dipplomé",
+        value: "1500",
+    },
+    {
+        id: "stats-2",
+        Icon: LuCalendarClock,
+        title: "Années D'experience",
+        value: "5",
+    },
+    {
+        id: "stats-3",
+        Icon: HiUserGroup,
+        title: "Eleves actuel",
+        value: "300"
+    }
 ]

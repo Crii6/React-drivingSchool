@@ -4,7 +4,7 @@ import interi from '../assets/interi.png'
 
 function Features() {
   return (
-    <div className="pt-16 bg-gray-gradient" id="features">
+    <div className="py-16 bg-gray-gradient" id="features">
       
         <div className="w-[90%] text-center max-w-6xl m-auto">
             <h2 className="text-3xl font-semibold uppercase">Our Features</h2>
