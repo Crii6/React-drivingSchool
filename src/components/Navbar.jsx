@@ -1,4 +1,4 @@
-import { HiMail, HiOutlineClock } from 'react-icons/hi';
+import { HiMail, HiOutlineClock } from 'react-icons/Hi';
 import { BsFillTelephoneFill } from 'react-icons/Bs';
 import { CgMenuRightAlt } from 'react-icons/Cg';
 import { TfiClose } from 'react-icons/tfi';
@@ -17,7 +17,7 @@ function Navbar() {
   return (
     <div className='back-header h-[100vh]'>
         <div className='background-overlay'></div>
-        <div className=' xs:flex sm:text-base xs:justify-between p-4 text-white max-w-6xl m-auto text-sm relative'>
+        <div className=' xs:flex sm:text-base xs:justify-between p-4 text-white max-w-7xl m-auto text-sm relative'>
             <div className='sm:flex items-end'>
                 <div className='flex justify-center mr-4 items-center'>
                     <span className='mr-2'><HiMail /></span>
@@ -33,8 +33,8 @@ function Navbar() {
                 <p>Mar - Sam : 8am - 9pm</p>
             </div>
         </div>
-        <div className='border-b border-gray-200/50 w-[80%] m-auto max-w-5xl relative'/>
-        <div className='flex p-4 justify-between items-center text-white max-w-6xl m-auto relative'>
+        <div className='border-b border-gray-200/50 w-[80%] m-auto max-w-6xl relative'/>
+        <div className='flex p-4 justify-between items-center text-white max-w-7xl m-auto relative'>
             <img src={logoecv} alt="logo ecv" className='sm:w-[150px] w-[130px]'/>
 
             <nav className={`w-[60%]`}>

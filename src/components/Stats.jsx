@@ -43,7 +43,7 @@ function Stats() {
   return (
     <div className="bg-gray-300/25 py-20 backStats relative" ref={statsContainerRef}>
       <div className="backStatsOverlay"></div>
-      <div className="w-[80%] m-auto sm:flex sm:justify-around max-w-6xl m-auto relative z-[10]">
+      <div className="w-[80%] m-auto sm:flex sm:justify-around max-w-7xl m-auto relative z-[10]">
         {currentStats.map(stat => {
           const { title, Icon, currentNumber } = stat;
 

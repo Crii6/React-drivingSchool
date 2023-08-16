@@ -4,7 +4,7 @@ import { permis } from "../constants";
 function Permis() {
   return (
     <div className="py-16 bg-gray-200">
-        <div className="w-[90%] text-center max-w-6xl m-auto">
+        <div className="w-[90%] text-center max-w-7xl m-auto">
             <h2 className="text-3xl font-semibold uppercase">Categorie Permis</h2>
             <p className="my-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, deleniti.</p>
             

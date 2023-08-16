@@ -6,7 +6,7 @@ function Features() {
   return (
     <div className="py-16 bg-gray-gradient" id="features">
       
-        <div className="w-[90%] text-center max-w-6xl m-auto">
+        <div className="w-[90%] text-center max-w-7xl m-auto">
             <h2 className="text-3xl font-semibold uppercase">Our Features</h2>
             <p className="my-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, deleniti.</p>
             
@@ -14,11 +14,11 @@ function Features() {
         </div>
         <div className="relative">
 
-          <div className="mt-10  max-w-6xl m-auto lg:block">
+          <div className="mt-10  max-w-7xl m-auto lg:block">
               <div className=" hidden lg:flex justify-center mt-14 ">
                 <img src={interi} alt="image au volant d'une voiture" className="w-[400px] relative z-[10]" />
               </div>
-            <div className="xs:flex xs:flex-wrap lg:absolute lg:top-[2px] lg:bottom-0 max-w-6xl lg:gap-x-36 lg:mb-6 ">
+            <div className="xs:flex xs:flex-wrap lg:absolute lg:top-[2px] lg:bottom-0 max-w-7xl lg:gap-x-36 lg:mb-6 ">
 
               {FeaturesCard.map( feature => {
                 const { title, Icon, text } = feature
