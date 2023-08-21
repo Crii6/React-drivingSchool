@@ -5,6 +5,7 @@ import Titre from "../components/Titre";
 import Features from "../components/Features";
 import Stats from "../components/Stats";
 import Permis from "../components/Permis";
+import Reviews from "../components/Reviews";
 
 const Home = () => {
 
@@ -23,6 +24,7 @@ const Home = () => {
       </div>
       <Stats />
       <Permis />
+      <Reviews />
     </header>
   )
 }
