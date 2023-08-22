@@ -197,3 +197,11 @@ html{
   color: white;
   border-color: white;
 }
+
+.swiper-3d, .swiper-slide-shadow{
+  background: none!important;
+}
+
+.swiper-cards{
+  overflow: hidden!important;
+}
