@@ -205,3 +205,7 @@ html{
 .swiper-cards{
   overflow: hidden!important;
 }
+
+.expanded{
+  height: initial;
+}
