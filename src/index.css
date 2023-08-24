@@ -224,7 +224,7 @@ html{
 }
 
 .back-footer{
-  background: url('src/assets/road.jpg');
+  background: url('./assets/road.jpg');
   background-position: center;
   background-size: cover;
 }
