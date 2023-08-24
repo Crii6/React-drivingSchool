@@ -141,8 +141,8 @@ export const reviews = [
         id : "coms 4",
         nom : "Oceane Dubois",
         date : "15/06/2023",
-        coms : "Superbe auto école je recommande à 100%. J’ai commencé à apprendre avec Dorothee puis Eve, je n’ai pas du tout ressenti le changement de propriétaire, Eve est attentive, agréable et professionnelle, lors",
-        coms_supp: " des leçons de conduite, elle va toujours chercher le meilleur de vous même. Marie gère très bien l’emploi du temps et fait en sorte d’arranger les élèves au maximum.Une bonne équipe merci à vous.☺️"
+        coms : "Superbe auto école je recommande à 100%. J’ai commencé à apprendre avec Dorothee puis Eve, je n’ai pas du tout ressenti le changement de propriétaire, Eve est attentive, agréable et professionnelle, lors des leçons de",
+        coms_supp: " conduite, elle va toujours chercher le meilleur de vous même. Marie gère très bien l’emploi du temps et fait en sorte d’arranger les élèves au maximum.Une bonne équipe merci à vous.☺️"
     },
     {
         Icon: AiTwotoneStar,
@@ -164,7 +164,7 @@ export const reviews = [
         id : "coms 7",
         nom : "Frederique Thiolat",
         date : "30/05/2023",
-        coms : "Je recommande cette auto-école à tout le monde !!!!! Dorothée a passé la main à Eve qui est une excellente monitrice qui sait mettre à l’aise ses élèves. Elle est patiente et attentive au profil ",
-        coms_supp: "de chacun de ses élèves pour les mettre pleinement en confiance pour les faire conduire en toute sérénité. Sans oublier Marie, la secrétaire qui fait tout pour arranger le planning de chacun et répondre à leur besoin. Un grand merci à vous trois pour m’avoir épaulées pour le passage de cet examen. En résumé, n’hésitez pas et foncez vous y inscrire les yeux fermés !!!!!"
+        coms : "Je recommande cette auto-école à tout le monde !!!!! Dorothée a passé la main à Eve qui est une excellente monitrice qui sait mettre à l’aise ses élèves. Elle est patiente et attentive au profil de chacun",
+        coms_supp: " de ses élèves pour les mettre pleinement en confiance pour les faire conduire en toute sérénité. Sans oublier Marie, la secrétaire qui fait tout pour arranger le planning de chacun et répondre à leur besoin. Un grand merci à vous trois pour m’avoir épaulées pour le passage de cet examen. En résumé, n’hésitez pas et foncez vous y inscrire les yeux fermés !!!!!"
     },
 ];
