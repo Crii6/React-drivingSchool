@@ -40,9 +40,9 @@ const Reviews = () => {
                             <SwiperSlide key={index}>
                                     
                             <div className={`bg-gray-100 border border-green-000 w-[260px] h-[380px] m-auto rounded-2xl mt-16 shadow-2xl ${isCardExpanded ? 'expanded' : ''}`}>
-                                <div className="w-[95%] m-auto p-4 text-center">
+                                <div className="w-[100%] m-auto p-4 text-center">
                                     <div className="mb-2">
-                                        <h3 className="font-semibold text-xl border-b border-black w-[70%] m-auto text-primary">{nom}</h3>
+                                        <h3 className="font-semibold text-xl border-b border-black w-[90%] m-auto text-primary">{nom}</h3>
                                     </div>
                                     <div className="flex justify-center text-amber-300">
                                         <Icon /><Icon /><Icon /><Icon /><Icon />
@@ -51,7 +51,7 @@ const Reviews = () => {
                                         <p className="italic">Publié le {date}</p>
                                     </div>
                                     <div className="mt-6">
-                                        <p className="font-semibold">
+                                        <p className="font-semibold h-[200px] overflow-hidden">
                                             "{coms}
                                             {coms_supp && (
                                                 
