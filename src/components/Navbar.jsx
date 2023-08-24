@@ -20,7 +20,7 @@ function Navbar() {
         <div className=' xs:flex sm:text-base xs:justify-between p-4 text-white max-w-7xl m-auto text-sm relative'>
             <div className='sm:flex items-end'>
                 <div className='flex justify-center mr-4 items-center'>
-                    <span className='mr-2'><HiMail /></span>
+                    <span className='mr-2'><><HiMail /></></span>
                     <p>email@driveschool.com</p>
                 </div>
                 <div className='flex mt-2 justify-center items-center'>
@@ -29,7 +29,7 @@ function Navbar() {
                 </div>
             </div>
             <div className='flex mt-2 justify-center items-center'>
-                <span className='mr-2'><HiOutlineClock /></span>
+                <span className='mr-2'><><HiOutlineClock /></></span>
                 <p>Mar - Sam : 8am - 9pm</p>
             </div>
         </div>
