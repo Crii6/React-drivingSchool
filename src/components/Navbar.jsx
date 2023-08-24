@@ -17,8 +17,8 @@ function Navbar() {
   return (
     <div className='back-header h-[100vh]'>
         <div className='background-overlay'></div>
-        <div className=' flex sm:text-base justify-between p-4 text-white max-w-7xl m-auto text-sm relative md:flex-row-reverse'>
-            <div className='sm:flex items-end'>
+        <div className=' flex sm:text-base justify-between p-4 text-white max-w-7xl m-auto text-sm relative md:flex-row-reverse md:justify-center'>
+            <div className='sm:flex items-end md:ml-4'>
                 <div className='sm:flex justify-center mr-4 items-center hidden'>
                     <span className='mr-2'><><HiMail /></></span>
                     <p>email@driveschool.com</p>
