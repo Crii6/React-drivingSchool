@@ -1,10 +1,10 @@
-import { PiCertificateBold, PiMonitorPlayThin, PiClock } from "react-icons/Pi";
+import { PiCertificateBold, PiMonitorPlayThin, PiClock } from "react-icons/pi";
 import { AiOutlineCar } from "react-icons/ai";
 import { FaUserCheck, FaGraduationCap, FaMotorcycle } from "react-icons/fa";
 import { GiDirectionSigns, GiScooter } from "react-icons/gi";
-import { LuCalendarClock } from "react-icons/Lu";
-import { HiUserGroup } from "react-icons/Hi";
-import { BsTruck } from "react-icons/Bs";
+import { LuCalendarClock } from "react-icons/lu";
+import { HiUserGroup } from "react-icons/hi";
+import { BsTruck } from "react-icons/bs";
 import { AiTwotoneStar } from "react-icons/ai";
 
 export const NavLinks = [
