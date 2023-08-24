@@ -117,8 +117,8 @@ export const reviews = [
         id : "coms 1",
         nom : "Lizzie Ruiz",
         date : "20/07/2023",
-        coms : "Une auto-école de qualité que je recommande fortement ! Une secrétaire à l'écoute et bienveillant qui nous rappelle nos heures de conduite la veille 😊! L'appréhension que j'avais avant de prendre ma première heure de ",
-        coms_supp: "conduite s'est tout de suite, évanoui car la monitrice (Ève) est très gentille et met tout de suite à l'aise ! J'ai vraiment apprécié ses méthodes d'apprentissage et surtout les petits debriefs de début et fin de séance ! Encore merci à Marie et à Ève 😁!"
+        coms : "Une auto-école de qualité que je recommande fortement! Une secrétaire à l'écoute et bienveillant qui nous rappelle nos heures de conduite la veille 😊! L'appréhension que j'avais avant de prendre ",
+        coms_supp: "ma première heure de conduite s'est tout de suite, évanoui car la monitrice (Ève) est très gentille et met tout de suite à l'aise ! J'ai vraiment apprécié ses méthodes d'apprentissage et surtout les petits debriefs de début et fin de séance ! Encore merci à Marie et à Ève 😁!"
     },
     {
         Icon: AiTwotoneStar,
@@ -133,8 +133,8 @@ export const reviews = [
         id : "coms 3",
         nom : "Jean-Baptiste Pot",
         date : "09/08/2023",
-        coms : "Excellente auto école ! Je viens d’obtenir mon permis avec 31 points sur 31. La formation est très qualitative, Ève nous forme bien et nous donne les bons conseils pour le permis. La secrétaire est aussi au top, elle",
-        coms_supp: " nous rappelle nos heures de conduite la veille par sms pour que l’on n’oublie pas, simple et efficace. Ce sont les petites choses qui font la différence ! Je recommande !"
+        coms : "Excellente auto école ! Je viens d’obtenir mon permis avec 31 points sur 31. La formation est très qualitative, Ève nous forme bien et nous donne les bons conseils pour le permis. La secrétaire est aussi au ",
+        coms_supp: "top, elle nous rappelle nos heures de conduite la veille par sms pour que l’on n’oublie pas, simple et efficace. Ce sont les petites choses qui font la différence ! Je recommande !"
     },
     {
         Icon: AiTwotoneStar,
@@ -156,8 +156,8 @@ export const reviews = [
         id : "coms 6",
         nom : "Tatiana Dellinger",
         date : "28/04/2023",
-        coms : "Je recommande cette auto-école! Dorothée puis Eve m’ont aidé à prendre confiance en moi pour la conduite, elles sont bienveillantes, à l’écoute et très rassurantes. J’ai été accompagné jusqu’à l’examen. Marie sera toujours",
-        coms_supp: " à l’écoute et là pour vous informer des cours à l’avance, ou d’autres choses à préparer pour le permis de conduire. Les membres de l’auto école sont excellents, et je recommande cette auto école sans aucun doute!"
+        coms : "Je recommande cette auto-école! Dorothée puis Eve m’ont aidé à prendre confiance en moi pour la conduite, elles sont bienveillantes, à l’écoute et très rassurantes. J’ai été accompagné jusqu’à l’examen. Marie sera",
+        coms_supp: " toujours à l’écoute et là pour vous informer des cours à l’avance, ou d’autres choses à préparer pour le permis de conduire. Les membres de l’auto école sont excellents, et je recommande cette auto école sans aucun doute!"
     },
     {
         Icon: AiTwotoneStar,
