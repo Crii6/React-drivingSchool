@@ -156,8 +156,8 @@ export const reviews = [
         id : "coms 6",
         nom : "Tatiana Dellinger",
         date : "28/04/2023",
-        coms : "Je recommande cette auto-école! Dorothée puis Eve m’ont aidé à prendre confiance en moi pour la conduite, elles sont bienveillantes, à l’écoute et très rassurantes. J’ai été accompagné jusqu’à l’examen. Marie sera",
-        coms_supp: " toujours à l’écoute et là pour vous informer des cours à l’avance, ou d’autres choses à préparer pour le permis de conduire. Les membres de l’auto école sont excellents, et je recommande cette auto école sans aucun doute!"
+        coms : "Je recommande cette auto-école! Dorothée puis Eve m’ont aidé à prendre confiance en moi pour la conduite, elles sont bienveillantes, à l’écoute et très rassurantes. J’ai été accompagné jusqu",
+        coms_supp: "’à l’examen. Marie sera toujours à l’écoute et là pour vous informer des cours à l’avance, ou d’autres choses à préparer pour le permis de conduire. Les membres de l’auto école sont excellents, et je recommande cette auto école sans aucun doute!"
     },
     {
         Icon: AiTwotoneStar,
