@@ -29,7 +29,7 @@ function Features() {
                       <div className="rounded-full w-[64px] h-[64px] flex justify-center xs:items-center">
                         <Icon className="text-4xl text-primary object-contain"/>
                       </div>
-                      <div className="flex flex-col ml-6 justify-center">
+                      <div className="flex flex-col ml-6 lg:justify-center">
                         <h3 className="text-2xl mb-4 font-semibold">{feature.title}</h3>
                         <p className="">{feature.text}</p>
                       </div>

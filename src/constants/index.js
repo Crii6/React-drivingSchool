@@ -38,32 +38,32 @@ export const FeaturesCard = [
     {
         Icon: PiCertificateBold,
         title: "Quick License",
-        text: "lorem ipsum dolor sit amet to be consectetur adipiscing elit,"
+        text: "lorem ipsum dolor sit amet to be consectetur adipiscing "
     },
     {
         Icon: AiOutlineCar,
         title: "Unlimited Car Support",
-        text: "lorem ipsum dolor sit amet to be consectetur adipiscing elit,"
+        text: "lorem ipsum dolor sit amet to be consectetur adipiscing "
     },
     {
         Icon: PiMonitorPlayThin,
         title: "Video Classes",
-        text: "lorem ipsum dolor sit amet to be consectetur adipiscing elit,"
+        text: "lorem ipsum dolor sit amet to be consectetur adipiscing"
     },
     {
         Icon: FaUserCheck,
         title: "Experience Instructors",
-        text: "lorem ipsum dolor sit amet to be consectetur adipiscing elit,"
+        text: "lorem ipsum dolor sit amet to be consectetur adipiscing "
     },
     {
         Icon: PiClock,
         title: "Any Time Any Place",
-        text: "lorem ipsum dolor sit amet to be consectetur adipiscing elit,"
+        text: "lorem ipsum dolor sit amet to be consectetur adipiscing "
     },
     {
         Icon: GiDirectionSigns,
         title: "Learning Roads",
-        text: "lorem ipsum dolor sit amet to be consectetur adipiscing elit,"
+        text: "lorem ipsum dolor sit amet to be consectetur adipiscing "
     },
 ];
 
@@ -71,7 +71,7 @@ export const stats = [
     {
         id: "stats-1",
         Icon: FaGraduationCap,
-        title: "Dipplomé",
+        title: "Dipplomés",
         value: "1500",
     },
     {
