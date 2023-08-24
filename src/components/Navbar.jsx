@@ -1,6 +1,6 @@
 import { HiMail, HiOutlineClock } from 'react-icons/hi';
-import { BsFillTelephoneFill } from 'react-icons/Bs';
-import { CgMenuRightAlt } from 'react-icons/Cg';
+import { BsFillTelephoneFill } from 'react-icons/bs';
+import { CgMenuRightAlt } from 'react-icons/cg';
 import { TfiClose } from 'react-icons/tfi';
 import logoecv from '../assets/logoecv.png';
 import { NavLinks } from '../constants';
