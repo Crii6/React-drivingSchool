@@ -24,7 +24,7 @@ function Features() {
                 const { title, Icon, text } = feature
                 
                 return (
-                  <div className="mt-8 w-[80%] xs:w-[45%] xs:h-[210px] m-auto flex flex-row p-4 rounded-[20px] hover:bg-white hover:scale-[1.1] shadow-lg border sm:items-center lg:rounded-none lg:h-[115px] lg:w-[42%] lg:mt-0 lg:odd:flex-row-reverse lg:odd:pr-36 lg:even:pl-36 lg:shadow-none lg:border-none lg:hover:bg-primary/25 lg:hover:scale-[1.02] featuresHauteur">
+                  <div className="h-[186px] mt-8 w-[80%] xs:w-[45%] xs:h-[210px] m-auto flex flex-row p-4 rounded-[20px] hover:bg-white hover:scale-[1.1] shadow-lg border sm:items-center lg:rounded-none lg:h-[115px] lg:w-[42%] lg:mt-0 lg:odd:flex-row-reverse lg:odd:pr-36 lg:even:pl-36 lg:shadow-none lg:border-none lg:hover:bg-primary/25 lg:hover:scale-[1.02] featuresHauteur">
                       
                       <div className="rounded-full w-[64px] h-[64px] flex justify-center xs:items-center">
                         <Icon className="text-4xl text-primary object-contain"/>

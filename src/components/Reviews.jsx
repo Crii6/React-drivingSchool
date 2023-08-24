@@ -51,7 +51,7 @@ const Reviews = () => {
                                         <p className="italic">Publié le {date}</p>
                                     </div>
                                     <div className="mt-6">
-                                        <p className="font-semibold h-[200px] overflow-hidden">
+                                        <p className="font-semibold overflow-hidden">
                                             "{coms}
                                             {coms_supp && (
                                                 
